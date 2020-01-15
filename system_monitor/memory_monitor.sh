@@ -6,16 +6,12 @@
 
 # date : 9 Jan 2020
 
-# version : 1.0.0
-
 # Set mail setting 
 TO='abdullahhemdany@outlook.com'
 SUBJECT='High Memory Usage'
 MESSAGE='/vagrant/mem/high.log'
 
-
-
-#use it in background 
+#use it in background (not implemented)
 
 # start loop to check memory based on interval time
 while [[ ture ]]
