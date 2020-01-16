@@ -1,7 +1,6 @@
 Text Editors : 
 
 1 - vim
-
 2 - emacs
-
-3 - nano
+3 - nano 
+4 - NotePad++ 
